@@ -1,0 +1,8 @@
+DB:
+
+iamsaravanan@gmail.com:omkar
+iammithunsai@gmail.com:mithun
+preethi@gmail.com:pre123*
+
+
+Make a python code like logging using username and password. if the username and the password matches username and password DB it have give successfully loggied. if the udername and the password did not matches the same in DB it have tell error
